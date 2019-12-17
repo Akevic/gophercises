@@ -1,0 +1,7 @@
+*.csv
+*.txt
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
